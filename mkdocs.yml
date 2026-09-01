@@ -1,6 +1,7 @@
 site_name: My Docs
-
 theme : readthedocs
+
 palette:
-primary: purple
+  -scheme: slate
+  primary: 'purple'
 

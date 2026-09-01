@@ -3,5 +3,5 @@ theme : readthedocs
 
 palette:
   -scheme: slate
-  primary: 'purple'
+  primary: 'indigo'
 
